@@ -1,0 +1,28 @@
+.gallery img{
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline rgb(41, 153, 188);
+}
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-collapse: collapse ;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(2, 30, 52);
+    color: #000000;
+    background-color: #51c6d8;
+    font-size: larger;
+}
+
+th {
+    font-weight: 800;
+    background-color: #2695A6;
+    color           : #000000;
+}
+
